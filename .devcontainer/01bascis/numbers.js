@@ -26,4 +26,9 @@
 // const max = 9999
 
 // console.log((Math.floor(Math.random()*(max - min+1)) + min));
-
+// let myDate = new Date();
+// console.log(myDate); // 2024-08-01T13:33:00.366Z
+// console.log(myDate.toJSON()); // 2024-08-01T13:33:00.366Z
+// let newDae = new Date(2024, 3, 23)
+// console.log(newDae.toDateString()); // Tue Apr 23 2024
+// console.log(newDae.toLocaleString()); // 4/23/2024, 12:00:00 AM
